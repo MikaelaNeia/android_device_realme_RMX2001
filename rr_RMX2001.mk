@@ -22,7 +22,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := qassa_RMX2001
+PRODUCT_NAME := rr_RMX2001
 PRODUCT_DEVICE := RMX2001
 PRODUCT_BRAND := realme
 PRODUCT_MODEL := RMX2001

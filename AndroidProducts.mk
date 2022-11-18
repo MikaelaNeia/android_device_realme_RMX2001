@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/qassa_RMX2001.mk
+    $(LOCAL_DIR)/rr_RMX2001.mk
 
 COMMON_LUNCH_CHOICES := \
-    qassa_RMX2001-user \
-    qassa_RMX2001-userdebug \
-    qassa_RMX2001-eng
+    rr_RMX2001-user \
+    rr_RMX2001-userdebug \
+    rr_RMX2001-eng
